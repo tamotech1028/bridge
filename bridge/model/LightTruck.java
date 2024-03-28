@@ -3,7 +3,7 @@ package bridge.model;
 import bridge.implement.Implementor;
 
 // 軽トラック
-public class LightTruck extends Car{
+public class LightTruck extends Car {
 
     public LightTruck(Implementor... implementors) {
         super(implementors);
